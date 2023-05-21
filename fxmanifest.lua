@@ -9,7 +9,7 @@ shared_scripts {
     'config.lua'
 }
 
-server_script 'server/server.lua'
-client_script 'client/client.lua'
+server_script 'server.lua'
+client_script 'client.lua'
 
 lua54 'yes'
